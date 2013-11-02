@@ -3571,11 +3571,19 @@ ul.footer_nav li {
 /* CUSTOM STYLES */
 
 h3.callout-header { text-align: left; }
+
 .hilite_header:hover h3 { color: #48AC4D; }
+
 .ivm_navbar { margin-left:190px; }
+
 ul.ivm_navbar li a, ul.ivm_navbar li span.subtitle { color: #00BAD6; }
+
 ul.ivm_navbar li:hover a, ul.ivm_navbar li:hover span.subtitle { color: #999; }
+
 ul.ivm_navbar li a { font-size: 12px; font-weight: 400; }
+
 .blockquote_list { list-style: square; }
+
 .blockquote_list li { line-height: 30px; }
+
 ul li.active a, ul.ivm_navbar li.active span.subtitle { color: #48AC4D; }
