@@ -44,7 +44,7 @@
 							<!--post image-->
 							<div class="row-fluid">
 								<div class="span12  post-image">
-									<a href="#"><img src="img/blank/620x349.gif" class="peLazyLoading" data-original="img/content/blog1-620x349.jpg" width="620" height="349" alt="alt text" /></a>
+									<a href="#"><img src="img/content/Inv-Asset-Servicing1.png" class="peLazyLoading" data-original="img/content/Inv-Asset-Servicing1.png" width="620" height="349" alt="alt text" /></a>
 								</div>
 							</div>
 							
