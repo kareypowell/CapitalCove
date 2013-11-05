@@ -99,7 +99,7 @@
 				<div class="row-fluid ">
 					<div class="span12">
 						<div class="span6 copyright">
-							<span>&copy; Capital Cove - REO Real Estate Expertise At Work</span>
+							<span>&copy; 2013 Capital Cove - REO Real Estate Expertise At Work</span>
 						</div>
 						
 						<div class="span6">
