@@ -1,6 +1,6 @@
 
 <?php
- $page_title = 'Capital Cove - REOAdvisorDirect';
+ $page_title = 'Capital Cove - REO AdvisorDirect';
  include 'includes/pagehead.php';
 ?>
 
@@ -11,8 +11,8 @@
 			<ul class="nav ivm_navbar">
         <li class="active"><a href="REOAdvisorDirect.php">REO AdvisorDirect&#8482;</a></li>
         <li><a href="InvestmentAssetServicing.php">Investment &amp;<span class="subtitle">Asset Servicing</span></a></li>
-        <li><a href="#">The REO Opportunities<span class="subtitle">Fund</span></a></li>
-        <li><a href="#">REO Financial &amp;<span class="subtitle">Services</span></a></li>
+        <li><a href="REOOpportunitiesFund.php">The REO Opportunities<span class="subtitle">Fund</span></a></li>
+        <li><a href="REOFinancialServices.php">REO Financial<span class="subtitle">Services</span></a></li>
         <li><a href="InvestmentAdvisorySolutions.php">Investment Advisory<span class="subtitle">Solutions</span></a></li>
         <li><a href="PrivateWealthManagement.php">Private Wealth<span class="subtitle">Management</span></a></li>
       </ul>
@@ -34,7 +34,7 @@
 							<!--post titles-->
 							<div class="row-fluid">
 								<div class="span12 post-title">
-									<h1><a href="#">REOAdvisorDirect</a></h1>
+									<h1><a href="#">REO AdvisorDirect</a></h1>
 								</div>
 							</div>
 							<!--meta-->

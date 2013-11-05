@@ -28,7 +28,7 @@
 		
 	<!--featured work widget-->
 	<div class="widget widget_featured">
-		<h3>Featured Work</h3>
+		<h3>Featured Project</h3>
 		<div class="project-item">
 			<a class="over-effect" href="#">
 				<img src="img/blank/420x372.gif" class="peLazyLoading" data-original="img/content/sidebar_work1.jpg" width="420" height="372" alt="alt text" />

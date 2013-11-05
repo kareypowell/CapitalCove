@@ -11,8 +11,8 @@
 			<ul class="nav ivm_navbar">
         <li><a href="REOAdvisorDirect.php">REO AdvisorDirect&#8482;</a></li>
         <li><a href="InvestmentAssetServicing.php">Investment &amp;<span class="subtitle">Asset Servicing</span></a></li>
-        <li><a href="#">The REO Opportunities<span class="subtitle">Fund</span></a></li>
-        <li><a href="#">REO Financial &amp;<span class="subtitle">Services</span></a></li>
+        <li><a href="REOOpportunitiesFund.php">The REO Opportunities<span class="subtitle">Fund</span></a></li>
+        <li><a href="REOFinancialServices.php">REO Financial<span class="subtitle">Services</span></a></li>
         <li class="active"><a href="InvestmentAdvisorySolutions.php">Investment Advisory<span class="subtitle">Solutions</span></a></li>
         <li><a href="PrivateWealthManagement.php">Private Wealth<span class="subtitle">Management</span></a></li>
       </ul>
@@ -76,9 +76,12 @@
                       </blockquote>
 										</p>
 
-                    <p>
-                      What makes our real estate solutions and investment recommendations different?
-                    </p>
+                    <br>
+                    <h3>
+                      <strong>
+                        What makes our real estate solutions and investment recommendations different?
+                      </strong>
+                    </h3>
 
 									  <blockquote>
                       <p>
