@@ -131,11 +131,11 @@
 				<header class="row-fluid">
 							   
 					<!--small logo-->
-					<div class="logo span4">
+					<div class="logo span3">
 						<a href="/" title="Home" ><img src="img/content/logo_head.png" alt="logo" /></a>
 					</div>
 
-					<div class="menu-wrap span8">
+					<div class="menu-wrap span9">
 						<!--main navigation-->
 						
 	<!--main menu-->
@@ -163,12 +163,12 @@
 					<li class="menu-item"><a href="PrivateWealthManagement.php">Private Wealth Management</a></li>
 				</ul> -->
 			</li>
-			<li class="menu-item dropdown "><a href="#"><b class="icon-down-open-mini"></b>WHO WE ARE<span class="subtitle"></span></a>
+			<li class="menu-item dropdown "><a href="#"><b class="icon-down-open-mini"></b>MEET THE FIRM<span class="subtitle"></span></a>
 				<ul class="dropdown-menu">
-					<li class="menu-item"><a href="#">Meet the Firm</a></li>
-                    <li class="menu-item"><a href="#">Leadership &amp; Management</a></li>
-                    <li class="menu-item"><a href="#">What We Do</a></li>
-                    <li class="menu-item"><a href="#">Our Track Record</a></li>
+					<li class="menu-item"><a href="#">Who We Are</a></li>
+          <li class="menu-item"><a href="#">Leadership &amp; Management</a></li>
+          <li class="menu-item"><a href="#">What We Do</a></li>
+          <li class="menu-item"><a href="#">Our Track Record</a></li>
 					<li class="menu-item"><a href="#">People and Culture</a></li>
 					<li class="menu-item"><a href="#">The Capital Cove Approach</a></li>
 					<li class="menu-item"><a href="#">Corporate Citizenship</a></li>
