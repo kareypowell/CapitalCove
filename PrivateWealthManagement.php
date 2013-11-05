@@ -13,7 +13,7 @@
         <li><a href="InvestmentAssetServicing.php">Investment &amp;<span class="subtitle">Asset Servicing</span></a></li>
         <li><a href="#">The REO Opportunities<span class="subtitle">Fund</span></a></li>
         <li><a href="#">REO Financial &amp;<span class="subtitle">Services</span></a></li>
-        <li><a href="#">Investment Advisory<span class="subtitle">Solutions</span></a></li>
+        <li><a href="InvestmentAdvisorySolutions.php">Investment Advisory<span class="subtitle">Solutions</span></a></li>
         <li class="active"><a href="PrivateWealthManagement.php">Private Wealth<span class="subtitle">Management</span></a></li>
       </ul>
 		</div>
@@ -42,7 +42,7 @@
 							<!--post image-->
 							<div class="row-fluid">
 								<div class="span12  post-image">
-									<a href="#"><img src="img/blank/620x349.gif" class="peLazyLoading" data-original="img/content/blog1-620x349.jpg" width="620" height="349" alt="alt text" /></a>
+									<a href="#"><img src="img/content/PrivateWealth.png" class="peLazyLoading" data-original="img/content/PrivateWealth.png" width="620" height="349" alt="alt text" /></a>
 								</div>
 							</div>
 							

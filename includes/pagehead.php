@@ -163,7 +163,7 @@
 					<li class="menu-item"><a href="PrivateWealthManagement.php">Private Wealth Management</a></li>
 				</ul> -->
 			</li>
-			<li class="menu-item dropdown "><a href="#"><b class="icon-down-open-mini"></b>MEET THE FIRM<span class="subtitle"></span></a>
+			<li class="menu-item dropdown"><a href="#"><b class="icon-down-open-mini"></b>MEET THE FIRM<span class="subtitle"></span></a>
 				<ul class="dropdown-menu">
 					<li class="menu-item"><a href="#">Who We Are</a></li>
           <li class="menu-item"><a href="#">Leadership &amp; Management</a></li>
