@@ -188,7 +188,7 @@
 					<li class="menu-item"><a href="#">For Individual Investors</a></li>
 					<li class="menu-item"><a href="#">For Property Owners and Equity Stakeholders</a></li>
 					<li class="menu-item"><a href="#">For Institutonal Investors &amp; Investment Entities</a></li>
-                    	<li class="menu-item"><a href="#">For Property Owners and Equity Stakeholders</a></li>
+                    	
 					<li class="menu-item"><a href="#">Financial Advisors/RIAs/Wealth Managers/Legal Fiduciaries</a></li>
                     	<li class="menu-item"><a href="#">Private Lenders &amp; Mortgage Funds/Firms</a></li>
 					<li class="menu-item"><a href="#">Off-Market Intermediaries and Limited Partners</a></li>
