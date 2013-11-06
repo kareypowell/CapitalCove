@@ -165,8 +165,8 @@
 			</li>
 			<li class="menu-item dropdown"><a href="#"><b class="icon-down-open-mini"></b>MEET THE FIRM<span class="subtitle"></span></a>
 				<ul class="dropdown-menu">
+          <li class="menu-item"><a href="LeadershipManagement.php">Leadership &amp; Management</a></li>
 					<li class="menu-item"><a href="#">Who We Are</a></li>
-          <li class="menu-item"><a href="#">Leadership &amp; Management</a></li>
           <li class="menu-item"><a href="#">What We Do</a></li>
           <li class="menu-item"><a href="#">Our Track Record</a></li>
 					<li class="menu-item"><a href="#">People and Culture</a></li>
@@ -187,10 +187,10 @@
 				<ul class="dropdown-menu">
 					<li class="menu-item"><a href="#">For Individual Investors</a></li>
 					<li class="menu-item"><a href="#">For Property Owners and Equity Stakeholders</a></li>
-					<li class="menu-item"><a href="#">For Institutonal Investors & Investment Entities</a></li>
+					<li class="menu-item"><a href="#">For Institutonal Investors &amp; Investment Entities</a></li>
                     	<li class="menu-item"><a href="#">For Property Owners and Equity Stakeholders</a></li>
 					<li class="menu-item"><a href="#">Financial Advisors/RIAs/Wealth Managers/Legal Fiduciaries</a></li>
-                    	<li class="menu-item"><a href="#">Private Lenders & Mortgage Funds/Firms</a></li>
+                    	<li class="menu-item"><a href="#">Private Lenders &amp; Mortgage Funds/Firms</a></li>
 					<li class="menu-item"><a href="#">Off-Market Intermediaries and Limited Partners</a></li>
 				</ul>
 			</li>
