@@ -5,108 +5,137 @@
 ?>
 
 <div class="site-body">
-    <div class="pe-container">
-    	<!-- slider -->
+   	<div class="pe-container">	
 		<div class="pe-block nomargin peSlider peVolo" 
-			 data-autopause="disabled" 
-			 data-plugin="peVolo"
-			 data-orig-width="940"
-			 data-orig-height="200"
-			 data-height="200,container,300"
-			 data-transition="random"
-			 >
-             
-             <div data-delay="7" class="visible">
-				<img src="img/blank/1920x900.gif" class="peLazyLoading" data-original="img/content/slider/Slider_bkgrd-IDP.png" width="1920" height="900" alt="alt text" />
+	 data-autopause="enabled" 
+	 data-height="0,2.35,600" 
+	 data-orig-width="940"
+	 data-orig-height="600"
+	 data-plugin="peVario"
+	 >
 
-				<!-- caption layers -->
-				<div class="peCaption">	
-					<div class="peCaptionLayer pe-caption-medium pe-caption-white" data-delay="0.5" data-transition="fadeInLeft" data-x="25" data-y="0">
-						
-					</div>
-					<div class="peCaptionLayer pe-caption-xlarge pe-caption-white pe-caption-thick" data-delay="1" data-transition="fadeInLeft" data-x="50" data-y="35">
-						
-					</div>
-					<div class="peCaptionLayer pe-caption-small  pe-caption-white pe-caption-background" data-delay="1.5" data-transition="fadeInUp" data-x="65" data-y="135">
-						 Real Estate, Asset Management and Investment Advisory.<br />Capital Cove is a firm that is clearly built for these times.
-					</div>
-				</div>
+	<div data-delay="5" class="visible">
+		<!-- background image -->
+		<img src="img/content/slider/Slider_bkgrd-IDP.png" class="peLazyLoading" data-original="img/content/slider/Slider_bkgrd-IDP.png" width="1920" height="600" alt="alt text" />
+
+		<!-- caption layers -->
+		<div class="peCaption">	
+			        
+            
+            
+            <div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="0.7" data-transition="fadeInDown" data-x="5" data-y="300" style="color: white; font-size: 55px">
+				Real Estate
+			</div>
+			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="1.4" data-transition="fadeInDown" data-x="15" data-y="350" style="color: white; font-size: 55px">
+				Asset Management
+			</div>
+			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="2.1" data-transition="fadeInDown" data-x="25" data-y="400" style="color: white; font-size: 55px">
+				Investment Advisory
+			</div>
+			<div class="peCaptionLayer pe-caption-small pe-caption-background" data-duration="0.8" data-delay="2.8" data-transition="fadeInDown"  data-x="35" data-y="480" style="color: white; font-size: 24px">
+				Capital Cove is a firm that is clearly built for these times.
 			</div>
             
-             <div data-delay="7" class="visible">
-				<img src="img/blank/1920x900.gif" class="peLazyLoading" data-original="img/content/slider/Slider1_bkgrd.jpg" width="1920" height="900" alt="alt text" />
-
-				<!-- caption layers -->
-				<div class="peCaption">	
-					<div class="peCaptionLayer pe-caption-medium pe-caption-white" data-delay="0.5" data-transition="fadeInLeft" data-x="50" data-y="0">
-						 
-					</div>
-					<div class="peCaptionLayer pe-caption-xlarge pe-caption-white pe-caption-thick" data-delay="1" data-transition="fadeInLeft" data-x="50" data-y="35">
-						
-					</div>
-					<div class="peCaptionLayer pe-caption-small  pe-caption-white pe-caption-background" data-delay="1.5" data-transition="fadeInUp" data-x="65" data-y="135">
-						Crafting Optimal Real Estate and Asset Management Solutions<br /> That Deliver Optimal Financial Outcomes is Our Business.
-					</div>
-				</div>
-			</div>
             
-              <div data-delay="7" class="visible">
-				<img src="img/blank/1920x900.gif" class="peLazyLoading" data-original="img/content/slider/Slider_bkgrd-Advisor.png" width="1920" height="900" alt="alt text" />
-
-				<!-- caption layers -->
-				<div class="peCaption">	
-					<div class="peCaptionLayer pe-caption-medium pe-caption-black" data-delay="0.5" data-transition="fadeInLeft" data-x="50" data-y="0">
-						 
-					</div>
-					<div class="peCaptionLayer pe-caption-xlarge pe-caption-white pe-caption-thick" data-delay="1" data-transition="fadeInLeft" data-x="50" data-y="35">
-						
-					</div>
-					<div class="peCaptionLayer pe-caption-small  pe-caption-white pe-caption-background" data-delay="1.5" data-transition="fadeInUp" data-x="65" data-y="135">
-						 Delivering Powerful, Straightforward Solutions <br />For Investing in Today's Distressed Real Estate Marketplace.
-					</div>
-				</div>
-			</div>
-
-
-		        <div data-delay="7" class="visible">
-				<img src="img/blank/1920x900.gif" class="peLazyLoading" data-original="img/content/slider/Slider_bkgrd-Advisor2.png" width="1920" height="900" alt="alt text" />
-
-				<!-- caption layers -->
-				<div class="peCaption">	
-					<div class="peCaptionLayer pe-caption-medium pe-caption-black" data-delay="0.5" data-transition="fadeInLeft" data-x="50" data-y="0">
-						
-					</div>
-					<div class="peCaptionLayer pe-caption-xlarge pe-caption-white pe-caption-thick" data-delay="1" data-transition="fadeInLeft" data-x="50" data-y="35">
-						
-					</div>
-					<div class="peCaptionLayer pe-caption-small  pe-caption-white pe-caption-background" data-delay="1.5" data-transition="fadeInUp" data-x="65" data-y="135">
-						Experience The Power of Having The Right Real Estate Investment <br />And Asset Management Relationships On Your Side.
-					</div>
-				</div>
-			</div>         
-        
-           
-        
-              <div data-delay="7" class="visible">
-				<img src="img/blank/1920x900.gif" class="peLazyLoading" data-original="img/content/slider/Slider_bkgrd-Closer.png" width="1920" height="900" alt="alt text" />
-
-				<!-- caption layers -->
-				<div class="peCaption">	
-					<div class="peCaptionLayer pe-caption-medium pe-caption-black" data-delay="0.5" data-transition="fadeInLeft" data-x="50" data-y="0">
-						
-					</div>
-					<div class="peCaptionLayer pe-caption-xlarge pe-caption-white pe-caption-thick" data-delay="1" data-transition="fadeInLeft" data-x="50" data-y="35">
-						
-					</div>
-					<div class="peCaptionLayer pe-caption-small  pe-caption-white pe-caption-background" data-delay="1.5" data-transition="fadeInUp" data-x="65" data-y="135">
-						A New Realty Brokerage and Investment Standard <br />Brought To You By A Firm Used To Exceeding It. 
-					</div>
-				</div>
-			</div>
-
-			
+            
+		</div>
 	</div>
-		<!-- end slider -->
+
+	<div data-delay="5">
+		<!-- background image -->
+		<img src="img/content/slider/Slider1_bkgrd.jpg" class="peLazyLoading" data-original="img/content/slider/Slider1_bkgrd.jpg" width="1920" height="600" alt="alt text" />
+
+		<!-- caption layers -->
+		<div class="peCaption">
+			
+			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="0.7" data-transition="fadeInDown" data-x="5" data-y="300" style="color: white; font-size: 55px">
+				Crafting Optimal
+			</div>
+			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="1.4" data-transition="fadeInDown" data-x="15" data-y="350" style="color: white; font-size: 55px">
+				Real Estate
+			</div>
+			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="2.1" data-transition="fadeInDown" data-x="25" data-y="400" style="color: white; font-size: 55px">
+				and Asset Management Solutions
+			</div>
+	<div class="peCaptionLayer pe-caption-small pe-caption-background" data-duration="0.8" data-delay="2.8" data-transition="fadeInDown" data-x="35" data-y="480" style="color: white; font-size: 24px">
+				That Deliver Optimal Financial Outcomes is Our Business.
+			</div>
+
+		</div>
+	</div>
+
+	<div data-delay="5">
+		<!-- background image -->
+		<img src="img/content/slider/Slider_bkgrd-Advisor.png" class="peLazyLoading" data-original="img/content/slider/Slider_bkgrd-Advisor.png" width="1920" height="600" alt="alt text" />
+		
+		
+
+			<!-- caption layers -->
+		<div class="peCaption">	
+			        
+            
+            
+            <div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="0.7" data-transition="fadeInDown" data-x="5" data-y="300" style="color: black; font-size: 55px">
+				Delivering Powerful
+			</div>
+			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="1.4" data-transition="fadeInDown" data-x="15" data-y="350" style="color: black; font-size: 55px">
+				Straightforward Solutions
+			</div>
+			<div class="peCaptionLayer pe-caption-small pe-caption-background" data-duration="0.8" data-delay="2.8" data-transition="fadeInDown" data-x="25" data-y="430" style="color: white; font-size: 24px">
+				For Investing in Today's Distressed Real Estate Marketplace.
+			</div>
+            
+		
+	
+	</div>
+    </div>
+    
+    	<div data-delay="5">
+		<!-- background image -->
+		<img src="img/content/slider/Slider_bkgrd-Advisor2.png" class="peLazyLoading" data-original="img/content/slider/Slider_bkgrd-Advisor2.png" width="1920" height="600" alt="alt text" />
+		
+		<div class="peCaption">
+			
+			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="0.7" data-transition="fadeInDown" data-x="5" data-y="300" style="color: black; font-size: 55px">
+				Experience The Power
+			</div>
+			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="1.4" data-transition="fadeInDown" data-x="15" data-y="350" style="color: black; font-size: 55px">
+				of Having The Right
+			</div>
+			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="2.1" data-transition="fadeInDown" data-x="25" data-y="400" style="color: black; font-size: 55px">
+				Real Estate Investment
+			</div>
+	<div class="peCaptionLayer pe-caption-small pe-caption-background" data-duration="0.8" data-delay="2.8" data-transition="fadeInDown" data-x="25" data-y="480" style="color: white; font-size: 24px">
+				And Asset Management Relationships On Your Side.
+			</div>
+
+		</div>
+		</div>
+				
+    <div data-delay="5">
+		<!-- background image -->
+		<img src="img/content/slider/Slider_bkgrd-Closer.png" class="peLazyLoading" data-original="img/content/slider/Slider_bkgrd-Closer.png" width="1920" height="600" alt="alt text" />
+		
+	<div class="peCaption">
+			
+			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="0.7" data-transition="fadeInDown" data-x="5" data-y="300" style="color: black; font-size: 55px">
+				A New Realty Brokerage
+			</div>
+			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="1.4" data-transition="fadeInDown" data-x="15" data-y="350" style="color: black; font-size: 55px">
+				and Investment Standard
+			</div>
+				<div class="peCaptionLayer pe-caption-small pe-caption-background" data-duration="0.8" data-delay="2.8" data-transition="fadeInDown" data-x="25" data-y="430" style="color: white; font-size: 24px">
+				Brought To You By A Firm Used To Exceeding It. 
+			</div>
+
+		</div>
+		</div>
+				
+		
+
+</div>		
+	
+	
 
 
     <div class="pe-container">

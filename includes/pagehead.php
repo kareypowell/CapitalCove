@@ -146,11 +146,11 @@
 			
 			<li class="menu-item dropdown "><a href="#"><b class="icon-down-open-mini"></b>REAL ESTATE<span class="subtitle"></span></a>
 			<ul class="dropdown-menu">
-					<li class="menu-item"><a href="#">Residential Real Estate Services</a></li>
-					<li class="menu-item"><a href="#">Short Sale Management Center</a></li>
-					<li class="menu-item"><a href="#">Commercial Real Estate Soluctions</a></li>
-					<li class="menu-item"><a href="#">Capital Cove Real Estate</a></li>
-					<li class="menu-item"><a href="#">Private Equity Real Estate</a></li>					
+					<li class="menu-item"><a href="ResidentialRealEstateServices.php">Residential Real Estate Services</a></li>
+					<li class="menu-item"><a href="ShortSaleManagementCenter.php">Short Sale Management Center</a></li>
+					<li class="menu-item"><a href="CommercialRealEstateServices.php">Commercial Real Estate Soluctions</a></li>
+					<li class="menu-item"><a href="CapitalCoveRealEstate.php">Capital Cove Real Estate</a></li>
+					<li class="menu-item"><a href="PrivateEquityRealEstate.php">Private Equity Real Estate</a></li>					
 				</ul>
 			</li>
 			<li class="menu-item dropdown"><a href="InvestmentManagement.php"><b class="icon-down-open-mini"></b>INVESTMENT<span class="subtitle">Management</span></a>
@@ -166,32 +166,32 @@
 			<li class="menu-item dropdown"><a href="#"><b class="icon-down-open-mini"></b>MEET THE FIRM<span class="subtitle"></span></a>
 				<ul class="dropdown-menu">
           <li class="menu-item"><a href="LeadershipManagement.php">Leadership &amp; Management</a></li>
-					<li class="menu-item"><a href="#">Who We Are</a></li>
-          <li class="menu-item"><a href="#">What We Do</a></li>
-          <li class="menu-item"><a href="#">Our Track Record</a></li>
-					<li class="menu-item"><a href="#">People and Culture</a></li>
-					<li class="menu-item"><a href="#">The Capital Cove Approach</a></li>
-					<li class="menu-item"><a href="#">Corporate Citizenship</a></li>
+					<li class="menu-item"><a href="WhoWeAre.php">Who We Are</a></li>
+          <li class="menu-item"><a href="WhatWeDo.php">What We Do</a></li>
+          <li class="menu-item"><a href="OurTrackRecord.php">Our Track Record</a></li>
+					<li class="menu-item"><a href="PeopleAndCulture.php">People and Culture</a></li>
+					<li class="menu-item"><a href="CapitalCoveEdge.php">The Capital Cove Edge</a></li>
+					<li class="menu-item"><a href="CorporateCitizenship.php">Corporate Citizenship</a></li>
 				</ul>
 			</li>
 			
 			<li class="menu-item  dropdown "><a href="#"><b class="icon-down-open-mini"></b>KNOWLEDGE<span class="subtitle">Center</span></a>
 				<ul class="dropdown-menu">
-					<li class="menu-item"><a href="#">Press &amp; Media</a></li>
-					<li class="menu-item"><a href="#">In the News</a></li>
-					<li class="menu-item"><a href="#">Industry Knowledge &amp; Links</a></li>
+					<li class="menu-item"><a href="PressMedia.php">Press &amp; Media</a></li>
+					<li class="menu-item"><a href="InTheNews.php">In the News</a></li>
+					<li class="menu-item"><a href="IndustryKnowledgeAndLinks.php">Industry Knowledge &amp; Links</a></li>
 				</ul>
 			</li>
 		
         <li class="menu-item  dropdown "><a href="#"><b class="icon-down-open-mini"></b>INVEST OR PARTNER<span class="subtitle">With Capital Cove</span></a>
 				<ul class="dropdown-menu">
-					<li class="menu-item"><a href="#">For Individual Investors</a></li>
-					<li class="menu-item"><a href="#">For Property Owners and Equity Stakeholders</a></li>
-					<li class="menu-item"><a href="#">For Institutonal Investors &amp; Investment Entities</a></li>
+					<li class="menu-item"><a href="IndividualInventors.php">For Individual Investors</a></li>
+					<li class="menu-item"><a href="PropertyOwnersAndEquityStakeholders.php">For Property Owners and Equity Stakeholders</a></li>
+					<li class="menu-item"><a href="InstitutionalInvestors.php">For Institutonal Investors &amp; Investment Entities</a></li>
                     	
-					<li class="menu-item"><a href="#">Financial Advisors/RIAs/Wealth Managers/Legal Fiduciaries</a></li>
-                    	<li class="menu-item"><a href="#">Private Lenders &amp; Mortgage Funds/Firms</a></li>
-					<li class="menu-item"><a href="#">Off-Market Intermediaries and Limited Partners</a></li>
+					<li class="menu-item"><a href="FinancialAdvisors.php">Financial Advisors/RIAs/Wealth Managers/Legal Fiduciaries</a></li>
+                    	<li class="menu-item"><a href="PrivateLendersAndMortgageFundsFirms.php">Private Lenders &amp; Mortgage Funds/Firms</a></li>
+					<li class="menu-item"><a href="OffMarketIntermediariesAndLimitedPartners.php">Off-Market Intermediaries and Limited Partners</a></li>
 				</ul>
 			</li>
 	<!--drop navigation-->

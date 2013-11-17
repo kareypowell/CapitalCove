@@ -1,6 +1,6 @@
 
 <?php
- $page_title = 'Capital Cove - Our Track Record';
+ $page_title = 'Capital Cove - Off Market Intermediaries And Limited Partners';
  include 'includes/pagehead.php';
 ?>
 
@@ -23,7 +23,7 @@
 							<!--post titles-->
 							<div class="row-fluid">
 								<div class="span12 post-title">
-									<h1><a href="#">Our Track Record</a></h1>
+									<h1><a href="#">Off Market Intermediaries And Limited Partners</a></h1>
 								</div>
 							</div>
 							<!--meta-->
@@ -31,7 +31,7 @@
 							<!--post image-->
 							<div class="row-fluid">
 								<div class="span12  post-image">
-									<a href="#"><img src="img/content/TrackRecord.png" class="peLazyLoading" data-original="img/content/TrackRecord.png" width="620" height="349" alt="alt text" /></a>
+									<a href="#"></a>
 								</div>
 							</div>
 							
@@ -42,7 +42,7 @@
 										  <blockquote>
                         <p>
                        
-                  PROVEN AND VERIFIABLE TRACK RECORD ACROSS ALL REO ASSET CLASSES
+              Page Under Construction...
                         </p>
                       </blockquote>
 
@@ -50,31 +50,15 @@
                             	<!--post image-->
 							<div class="row-fluid">
 								<div class="span12  post-image">
-									<a href="#"><img src="img/content/Track-Record-Boxes.png" class="peLazyLoading" data-original="img/content/Track-Record-Boxes.png" width="620" height="349" alt="alt text" /></a>
+									
 								</div>
 							</div>	
                             	
                         <p>
                          
-                      We Fit Solutions to Clients.  Not the Other Way Around.
+                     
                       
-                      
-  <blockquote>
-                      <p>
-                        <ul class="blockquote_list">
-                          <li>Cash </li>
-                           <li> Cash Equivalents</li>
-                            <li> Stocks</li>
-                             <li> Real Property </li>
-                              <li> Qualified IRA Plans</li>
-                               <li> In-kind Exchanges</li>
-                                <li> Structured Equity Transactions</li>
-                                 
-                        </ul>
-                        10% due on commitment.  Call period - 5 business days.
-                        </p>
-                        </blockquote>
-                        </p>
+
  
                        
 

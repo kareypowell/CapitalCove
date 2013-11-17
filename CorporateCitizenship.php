@@ -13,6 +13,8 @@
 			
 			<!--main content-->
 			<section class="span8">
+            
+            
 				
 				<!--new post-->
 				<div class="row-fluid">
@@ -26,7 +28,12 @@
 							</div>
 							<!--meta-->
 							
-						
+							<!--post image-->
+							<div class="row-fluid">
+								<div class="span12  post-image">
+									<a href="#"><img src="img/content/Citizenship.png" class="peLazyLoading" data-original="img/content/Citizenship.png" width="620" height="349" alt="alt text" /></a>
+								</div>
+							</div>
 							
 							<div class="row-fluid">
 								<div class="span12">

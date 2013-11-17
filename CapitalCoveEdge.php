@@ -41,24 +41,24 @@ It's a new financial and real estate world. In an economy and regulatory environ
                       
 										  <blockquote>
                         <p>
-                          <ul class="blockquote_list">
-                            <li>
-                            Seek stronger diversification across asset classes that are actually making money, and are well positioned for future upside. Distressed real estate, non-performing mortgage portfolio assets and alternative investments are now the "New" investments for active and entrepreneurial investors.
-                            </li>
-                            <li>
-                             Realize the benefits of Alternative Investments, such as precious metals, long/short strategies, distressed real estate, defaulted mortgages/deeds of trust, private placements, preferred stock and a wide variety of insurance products and private equity vehicles.
-                            </li>
-                            <li>
-                             Focus on higher yield, asset-based investments that grow in value over time. Everyone has seen the extreme danger to wealth management in "securitization of paper" and hedging strategies based on nothing but overhyped speculation.
-                            </li>
-                            <li>
-                             Be proactive about your financial future and building a top performing portfolio for the long term. Through REO Fixed income plans, Variable Annuities, Separately Managed Accounts and Self-Directed IRA Plans – everyone should be vested in their financial future.
-                            </li>
-                            <li>
-                              Only work with reputable, knowledgeable real estate and investment firms that have a verifiable track record in foreclosures, REO real estate and alternative investments. In a distressed real estate world weighed down by "daisy chain intermediaries" and foreclosure rescue scams – some people still think that it doesn't matter who you do business with…until it does.
-                            </li>
+                          <p class="blockquote_list">
+                           1.
+                            Seek stronger diversification across asset classes that are actually making money, and are well positioned for future upside. Distressed real estate, non-performing mortgage portfolio assets and alternative investments are now the "New" investments for active and entrepreneurial investors. <br /><br />
                            
-                          </ul>
+                           2.
+                             Realize the benefits of Alternative Investments, such as precious metals, long/short strategies, distressed real estate, defaulted mortgages/deeds of trust, private placements, preferred stock and a wide variety of insurance products and private equity vehicles.<br /><br />
+                           
+                          3.
+                             Focus on higher yield, asset-based investments that grow in value over time. Everyone has seen the extreme danger to wealth management in "securitization of paper" and hedging strategies based on nothing but overhyped speculation.<br /><br />
+                            
+                           4.
+                             Be proactive about your financial future and building a top performing portfolio for the long term. Through REO Fixed income plans, Variable Annuities, Separately Managed Accounts and Self-Directed IRA Plans – everyone should be vested in their financial future.<br /><br />
+                           
+                            5.
+                              Only work with reputable, knowledgeable real estate and investment firms that have a verifiable track record in foreclosures, REO real estate and alternative investments. In a distressed real estate world weighed down by "daisy chain intermediaries" and foreclosure rescue scams – some people still think that it doesn't matter who you do business with…until it does.
+                           
+                           
+                          </p>
                         </p>
                       </blockquote>
 
