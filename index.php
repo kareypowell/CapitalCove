@@ -23,16 +23,16 @@
 			        
             
             
-            <div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="0.7" data-transition="fadeInDown" data-x="5" data-y="300" style="color: white; font-size: 55px">
+            <div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="0.7" data-transition="fadeInDown" data-x="5" data-y="300" style="color: white; font-size: 40px">
 				Real Estate
 			</div>
-			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="1.4" data-transition="fadeInDown" data-x="15" data-y="350" style="color: white; font-size: 55px">
+			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="1.4" data-transition="fadeInDown" data-x="5" data-y="350" style="color: white; font-size: 40px">
 				Asset Management
 			</div>
-			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="2.1" data-transition="fadeInDown" data-x="25" data-y="400" style="color: white; font-size: 55px">
+			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="2.1" data-transition="fadeInDown" data-x="5" data-y="400" style="color: white; font-size: 40px">
 				Investment Advisory
 			</div>
-			<div class="peCaptionLayer pe-caption-small pe-caption-background" data-duration="0.8" data-delay="2.8" data-transition="fadeInDown"  data-x="35" data-y="480" style="color: white; font-size: 24px">
+			<div class="peCaptionLayer pe-caption-small pe-caption-background" data-duration="0.8" data-delay="2.8" data-transition="fadeInDown"  data-x="10" data-y="480" style="color: white; font-size: 24px">
 				Capital Cove is a firm that is clearly built for these times.
 			</div>
             
@@ -48,17 +48,14 @@
 		<!-- caption layers -->
 		<div class="peCaption">
 			
-			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="0.7" data-transition="fadeInDown" data-x="5" data-y="300" style="color: white; font-size: 55px">
-				Crafting Optimal
+ <div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="0.7" data-transition="fadeInDown" data-x="5" data-y="200" style="color: #66CCFF; font-size: 40px">
+				Delivering Powerful
 			</div>
-			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="1.4" data-transition="fadeInDown" data-x="15" data-y="350" style="color: white; font-size: 55px">
-				Real Estate
+			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="1.4" data-transition="fadeInDown" data-x="5" data-y="250" style="color: #66CCFF; font-size: 40px">
+				Straightforward Solutions
 			</div>
-			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="2.1" data-transition="fadeInDown" data-x="25" data-y="400" style="color: white; font-size: 55px">
-				and Asset Management Solutions
-			</div>
-	<div class="peCaptionLayer pe-caption-small pe-caption-background" data-duration="0.8" data-delay="2.8" data-transition="fadeInDown" data-x="35" data-y="480" style="color: white; font-size: 24px">
-				That Deliver Optimal Financial Outcomes is Our Business.
+			<div class="peCaptionLayer pe-caption-small pe-caption-background3" data-duration="0.8" data-delay="2.8" data-transition="fadeInDown" data-x="10" data-y="330" style="color: white; font-size: 24px">
+				For Investing in Today's Distressed Real Estate Marketplace.
 			</div>
 
 		</div>
@@ -73,17 +70,24 @@
 			<!-- caption layers -->
 		<div class="peCaption">	
 			        
+            			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="0.7" data-transition="fadeInDown" data-x="0" data-y="150" style="color: #3399FF; font-size: 40px">
+				Crafting Optimal
+			</div>
+			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="1.4" data-transition="fadeInDown" data-x="0" data-y="200" style="color: #3399FF; font-size: 40px">
+				Real Estate and 
+			</div>
+			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="2.1" data-transition="fadeInDown" data-x="0" data-y="250" style="color: #3399FF; font-size: 40px">
+				Asset Management
+			</div>
+			
+				<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="2.1" data-transition="fadeInDown" data-x="0" data-y="300" style="color: #3399FF; font-size: 40px">
+				Solutions
+			</div>
+	<div class="peCaptionLayer pe-caption-small pe-caption-background3" data-duration="0.8" data-delay="2.8" data-transition="fadeInDown" data-x="15" data-y="370" style="color: white; font-size: 24px">
+				That Deliver Optimal Financial Outcomes is Our Business.
+			</div>
             
-            
-            <div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="0.7" data-transition="fadeInDown" data-x="5" data-y="300" style="color: black; font-size: 55px">
-				Delivering Powerful
-			</div>
-			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="1.4" data-transition="fadeInDown" data-x="15" data-y="350" style="color: black; font-size: 55px">
-				Straightforward Solutions
-			</div>
-			<div class="peCaptionLayer pe-caption-small pe-caption-background" data-duration="0.8" data-delay="2.8" data-transition="fadeInDown" data-x="25" data-y="430" style="color: white; font-size: 24px">
-				For Investing in Today's Distressed Real Estate Marketplace.
-			</div>
+           
             
 		
 	
@@ -96,16 +100,16 @@
 		
 		<div class="peCaption">
 			
-			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="0.7" data-transition="fadeInDown" data-x="5" data-y="300" style="color: black; font-size: 55px">
+			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="0.7" data-transition="fadeInDown" data-x="450" data-y="150" style="color: black; font-size: 40px">
 				Experience The Power
 			</div>
-			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="1.4" data-transition="fadeInDown" data-x="15" data-y="350" style="color: black; font-size: 55px">
+			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="1.4" data-transition="fadeInDown" data-x="450" data-y="200" style="color: black; font-size: 40px">
 				of Having The Right
 			</div>
-			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="2.1" data-transition="fadeInDown" data-x="25" data-y="400" style="color: black; font-size: 55px">
+			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="2.1" data-transition="fadeInDown" data-x="450" data-y="250" style="color: black; font-size: 40px">
 				Real Estate Investment
 			</div>
-	<div class="peCaptionLayer pe-caption-small pe-caption-background" data-duration="0.8" data-delay="2.8" data-transition="fadeInDown" data-x="25" data-y="480" style="color: white; font-size: 24px">
+	<div class="peCaptionLayer pe-caption-small pe-caption-background4" data-duration="0.8" data-delay="2.8" data-transition="fadeInDown" data-x="465" data-y="320" style="color: white; font-size: 24px">
 				And Asset Management Relationships On Your Side.
 			</div>
 
@@ -118,13 +122,13 @@
 		
 	<div class="peCaption">
 			
-			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="0.7" data-transition="fadeInDown" data-x="5" data-y="300" style="color: black; font-size: 55px">
+			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="0.7" data-transition="fadeInDown" data-x="200" data-y="350" style="color: black; font-size: 40px">
 				A New Realty Brokerage
 			</div>
-			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="1.4" data-transition="fadeInDown" data-x="15" data-y="350" style="color: black; font-size: 55px">
+			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="1.4" data-transition="fadeInDown" data-x="200" data-y="400" style="color: black; font-size: 40px">
 				and Investment Standard
 			</div>
-				<div class="peCaptionLayer pe-caption-small pe-caption-background" data-duration="0.8" data-delay="2.8" data-transition="fadeInDown" data-x="25" data-y="430" style="color: white; font-size: 24px">
+				<div class="peCaptionLayer pe-caption-small pe-caption-background6" data-duration="0.8" data-delay="2.8" data-transition="fadeInDown" data-x="215" data-y="470" style="color: white; font-size: 24px">
 				Brought To You By A Firm Used To Exceeding It. 
 			</div>
 

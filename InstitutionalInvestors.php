@@ -1,6 +1,6 @@
 
 <?php
- $page_title = 'Capital Cove -  Short Sale Management Center';
+ $page_title = 'Capital Cove - For Institutional Investors';
  include 'includes/pagehead.php';
 ?>
 
@@ -23,7 +23,7 @@
 							<!--post titles-->
 							<div class="row-fluid">
 								<div class="span12 post-title">
-									<h1><a href="#"> Short Sale Management Center</a></h1>
+									<h1><a href="#">For Institutional Investors</a></h1>
 								</div>
 							</div>
 							<!--meta-->
@@ -44,53 +44,26 @@
 									
                         <p>
                          
-               When it comes to successful Short Sales and permanent Loan Workouts, Capital Cove's performance track record is nothing short of spectacular!
-                        </p>
-                        
-                        <p>
-                        Committed to Property Owners, Investors and Equity Stakeholders in Default – Not Distress.
-                        </p>
-                        
-                        <p>
-                        Something happens when you choose the wrong firm to handle your Short Sale or Loan Workout…absolutely nothing! Lets face it. The foreclosure process has a way or ruining many other aspects of your life, and should not be entrusted to firms that lack real-world experience and a verifiable track record of successfully closing short sale transactions. The most impactful benefits of a Short Sale for Homeowners are:
+                    Institutional Investors and Corporate Entities are able to connect with us and invest via Institutional Custodial Platforms, Special Purpose Vehicles, Closely-held corporate entities, Separately Managed Accounts or our two-tiered Institutional Fund Platform. In addition:
                         </p>
   <blockquote>
                         <p>
                        
                         <ul class="blockquote_list">
-<li> Avoiding Foreclosure or an Eviction – both of which are publicly recorded and remain on your credit for years. </li>
+<li> Our investor asset management and administration systems connect seamlessly to our Institutional Custodians for integrated client management, Due Diligence transparency and ironclad privacy. </li>
 
-<li>Avoiding Collection Action for Any Deficiency Judgements.</li>
+<li>Our Hybrid RIA operating model insures that all institutional investors receive a dedicated account, secure real-time web portal access to their accounts, and electronic data vault access to all records and documents pertaining to their investment.</li>
 
-<li>Taking advantage of the new 1 year requirement to qualify for a new FHA home loan; the sooner you start the process – the better.</li>
+<li>All institutional investors remain in full control of their funds up to the point of executed contract; transaction transparency and certification is guaranteed with our Principal Direct model and transaction protocols.</li>
 
-<li> Avoiding the financial strain of living in a depreciated asset that is not worth what you owe on the mortgage. </li>
+<li> All institutional investors receive a direct line to a dedicated, knowledgeable Capital Cove Managing Consultant/Relationship Manager. All institutional client relationships and subsequent investments are overseen by a regional Managing Director. </li>
 
-<li>Avoiding adverse and negative reporting to the credit bureaus such as late monthly payments or payment gaps which destroy your credit.</li>
+<li>All institutional clients are welcomed to engage in high-impact, co-marketing and information sessions via coordinated project site visits, event kits, webinars, investment advisory roundtables, and co-investment meetings which are restricted to Investment, Equity Stakeholder and Owner Principals Only.</li>
 </ul>
                         </p>
                       </blockquote>
-                      
-                      <p> 
-                      <table align="center">
-                      <tr><td>Pre-Foreclosure Advisory Services </td> <td> Accelerated Short Sale Closings</td> </tr>
-                          <tr><td>Deed-In-Lieu (DIL) Solutions </td> <td>Reinstatement & Repayment Plans </td> </tr>
-                              <tr><td>Investor Deed-For-Lease Programs </td> <td>Distressed Lending Programs </td> </tr>
-                                  <tr><td>Quick Listing & Sale Transactions     </td> <td>Foreclosure Alternative Strategies </td> </tr>
-                                      <tr><td> Loan Workout, Restructuring or Refinance             </td> <td> Permanent Loan Modifications</td> </tr>
-                                          <tr><td>Negotiated Cash-For-Keys Incentives with Relocation Assistance </td> <td> </td> </tr>
-                      </table>
-                      
-                      </p>
-                      
-                      <p> 
-                      When completed correctly, a Short Sale is typically a win-win-win solution for the homeowner, lender and investor when a mortgage loan goes into default status.
-                      </p>
                         
-     
-     <p>
-     If you are facing the prospect of foreclosure, have received a default notice, have had a loan modification request declined or simply want to maximize lender incentives to distressed homeowner and move on with your life, please contact the Short Sale Management Center at 909-457-8440 or ssmc@capitalcove.com to get started on a permanent short sale solution today.
-     </p>            
+                 
 									</div>
 								</div>
 							</div>
