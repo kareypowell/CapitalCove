@@ -14,6 +14,13 @@
         <h1><a href="#">Leadership &amp; Management</a></h1>
       </div>
     </div>
+
+    <!--post image-->
+    <div class="row-fluid">
+      <div class="span12  post-image">
+        <a href="#"><img src="img/content/LeadershipAndManagement.jpg" class="peLazyLoading" data-original="img/content/LeadershipAndManagement.jpg" width="940" height="460" alt="alt text" /></a>
+      </div>
+    </div>
     <div class="pe-spacer size70"></div>
 
     <div class="row-fluid pe-block">
