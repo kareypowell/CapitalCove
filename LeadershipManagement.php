@@ -362,7 +362,7 @@
           <!-- staff 3 -->
           <section class="span3 small-profile" style="margin-left:0;">
             <h3>Bob Gough</h3>
-            <span class="light">Awaiting Position...</span>
+            <span class="light">Independent Managing Consultant <br/> Los Angeles</span>
 
             <div class="staff-social">
               <a href="#" data-rel="tooltip" data-position="top" data-original-title="T: 1 (949) 545-3827"><i class="icon-phone"></i></a>
