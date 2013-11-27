@@ -151,9 +151,6 @@
 					<li class="menu-item"><a href="CommercialRealEstateServices.php">Commercial Real Estate Solutions</a></li>
 					<li class="menu-item"><a href="CapitalCoveRealEstate.php">Capital Cove Real Estate</a></li>
 					<li class="menu-item"><a href="PrivateEquityRealEstate.php">Private Equity Real Estate</a></li>
-					<li class="menu-item"><a href="CommercialRealEstateServices.php">Commercial Real Estate Solutions</a></li>
-					<li class="menu-item"><a href="#">Capital Cove Real Estate</a></li>
-					<li class="menu-item"><a href="#">Private Equity Real Estate</a></li>
 				</ul>
 			</li>
 			<li class="menu-item dropdown"><a href="InvestmentManagement.php"><b class="icon-down-open-mini"></b>INVESTMENT<span class="subtitle">Management</span></a>
@@ -192,12 +189,6 @@
 					<li class="menu-item"><a href="PropertyOwnersAndEquityStakeholders.php">For Property Owners and Equity Stakeholders</a></li>
 					<li class="menu-item"><a href="InstitutionalInvestors.php">For Institutonal Investors &amp; Investment Entities</a></li>
 					<li class="menu-item"><a href="FinancialAdvisors.php">Financial Advisors/RIAs/Wealth Managers/Legal Fiduciaries</a></li>
-					<li class="menu-item"><a href="ForIndividualInventors.php">For Individual Investors</a></li>
-					<li class="menu-item"><a href="ForPropertyOwnersAndEquityStakeholders.php">For Property Owners and Equity Stakeholders</a></li>
-					<li class="menu-item"><a href="ForInstitutionalInvestors.php">For Institutonal Investors &amp; Investment Entities</a></li>
-					<li class="menu-item"><a href="ForFinancialAdvisors.php">Financial Advisors/RIAs/Wealth Managers/Legal Fiduciaries</a></li>
-          <li class="menu-item"><a href="PrivateLendersAndMortgageFundsFirms.php">Private Lenders &amp; Mortgage Funds/Firms</a></li>
-					<li class="menu-item"><a href="OffMarketIntermediariesAndLimitedPartners.php">Off-Market Intermediaries and Limited Partners</a></li>
 				</ul>
 			</li>
 	<!--drop navigation-->

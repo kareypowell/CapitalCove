@@ -5,13 +5,13 @@
 ?>
 
 <div class="site-body">
-	
+
 	<div class="page-title" style="background-color:#e6e7e8;">
 		<div class="pe-container">
 			<ul class="nav ivm_navbar">
         <li class="active"><a href="REOAdvisorDirect.php">REO AdvisorDirect&#8482;</a></li>
         <li><a href="InvestmentAssetServicing.php">Investment &amp;<span class="subtitle">Asset Servicing</span></a></li>
-        <li><a href="REOOpportunitiesFund.php">The REO Opportunities<span class="subtitle">Fund</span></a></li>
+        <li><a href="REOOpportunitiesFunds.php">The REO Opportunities<span class="subtitle">Funds</span></a></li>
         <li><a href="REOFinancialServices.php">REO Financial<span class="subtitle">Services</span></a></li>
         <li><a href="InvestmentAdvisorySolutions.php">Investment Advisory<span class="subtitle">Solutions</span></a></li>
         <li><a href="PrivateWealthManagement.php">Private Wealth<span class="subtitle">Management</span></a></li>
@@ -21,12 +21,12 @@
 	<div class="pe-spacer size70"></div>
 
 	<div class="pe-container">
-		
+
 		<div class="row-fluid">
-			
+
 			<!--main content-->
 			<section class="span8">
-				
+
 				<!--new post-->
 				<div class="row-fluid">
 					<div class="span12">
@@ -49,22 +49,22 @@
 										<span class="date"><a href="investments/REOAdvisorDirect.pdf">Download PDF</a> (131 kb)</span>
 									</div>
 								</div>
-							</div>	
-							
+							</div>
+
 							<!--post image-->
 							<div class="row-fluid">
 								<div class="span12  post-image">
 									<a href="#"><img src="img/content/REO_AdvisorDirect.jpg" class="peLazyLoading" data-original="img/content/REO_AdvisorDirect.jpg" width="620" height="349" alt="alt text" /></a>
 								</div>
 							</div>
-							
+
 							<div class="row-fluid">
 								<div class="span12">
 									<div class="span12">
 										<h2>REO AdvisorDirect&#8482; Offers</h2>
 										<p class="intro">
 										  <strong>
-										  	The Combined Strength of Capital Cove’s Real Estate, Asset Management and 
+										  	The Combined Strength of Capital Cove’s Real Estate, Asset Management and
 										  	Investment Advisory Businesses.
 										  </strong> <br/>
 
@@ -73,18 +73,18 @@
 										  </p>
 
 										  <p>
-										  	The REOAdvisorDirect™ Platform provides the REO real 
-										  	estate insights of Capital Cove and the execution 
+										  	The REOAdvisorDirect™ Platform provides the REO real
+										  	estate insights of Capital Cove and the execution
 										  	capabilities of a world-class custodian.
 										  </p>
 
 										  <p>
-										  	At Capital Cove, we have the answers to your questions 
-										  	about investing in REO and Foreclosure-Based 
-										  	investments – including how to avoid the inherent potential 
-										  	risks that often come with distressed real estate and 
-										  	mortgages. We offer the convenience, diversification and 
-										  	applied resources you need to help you manage your real 
+										  	At Capital Cove, we have the answers to your questions
+										  	about investing in REO and Foreclosure-Based
+										  	investments – including how to avoid the inherent potential
+										  	risks that often come with distressed real estate and
+										  	mortgages. We offer the convenience, diversification and
+										  	applied resources you need to help you manage your real
 										  	estate assets and investments the way you want.
 										  </p>
 										</p>
@@ -106,47 +106,47 @@
                     </blockquote>
 
                     <p>
-                    	When you choose a Capital Cove Realty or Financial Solutions Advisor to work with, 
-                    	you are entering into a beneficial advisory partnership. We take the time to develop 
-                    	a long-term understanding of who you are, what matters most to you, and the life you 
-                    	want to live. It’s a relationship that combines our industry know-how and real-world 
-                    	experience with knowing how you plan your priorities, protect your wealth and look 
+                    	When you choose a Capital Cove Realty or Financial Solutions Advisor to work with,
+                    	you are entering into a beneficial advisory partnership. We take the time to develop
+                    	a long-term understanding of who you are, what matters most to you, and the life you
+                    	want to live. It’s a relationship that combines our industry know-how and real-world
+                    	experience with knowing how you plan your priorities, protect your wealth and look
                     	to fulfill your vision of a successful financial future.
                     </p>
 
                     <p>
-                    	We invite you to explore our broad range of real estate investment solutions and talk 
+                    	We invite you to explore our broad range of real estate investment solutions and talk
                     	with a Solutions Advisor about how they might fit your needs.
                     </p>
 
 									</div>
 								</div>
 							</div>
-							
+
 						</div>
-						
+
 					</div>
 				</div>
 				<!--end post-->
-				
-				
-				
 
-					
+
+
+
+
 			</section>
 
 			<!--sidebar-->
 				<?php REQUIRE 'includes/sidebar.php';?>
-			<!--end sidebar-->		
+			<!--end sidebar-->
 
 		</div><!--end row 1-->
-		
-		
-		
+
+
+
 	</div>
 </div>
 
 
-	
+
  	<div class="pe-spacer size100"></div>
 	 	<?php REQUIRE 'includes/footer.php';?>

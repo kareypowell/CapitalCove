@@ -1,6 +1,6 @@
 
 <?php
- $page_title = 'Capital Cove - REO Opportunities Funds';
+ $page_title = 'Capital Cove - REO Opportunities Fund';
  include 'includes/pagehead.php';
 ?>
 
@@ -158,7 +158,7 @@
                     </h3>
 									  <p>
                       All of the Principals and Executive Management of the <strong>Capital Cove REO
-                      Opportunities Fund</strong> Fund have proven and verifiable track records of
+                      Opportunities Funds</strong> have proven and verifiable track records of
                       sourcing right, buying right, managing right, and selling right – having routinely
                       earned double-digit returns on realized investments over the past eight years.
                       Moreover, our firm can provide substantial escrow and banking documentation detailing
@@ -183,10 +183,10 @@
                       industry players has created unprecedented opportunities for well-positioned and well-capitalized
                       funds, emerging entities, and entrepreneurial investors to acquire distressed real property
                       and deeds of trust at substantial discounts to current market values. The <strong>Capital Cove REO
-                      Opportunities Fund</strong> has been formed, operated and funded to not only maximize foreclosure
+                      Opportunities Funds</strong> have been formed, operated and funded to not only maximize foreclosure
                       investment and private equity opportunities, but to generate substantially higher annual yields,
                       and successfully leverage our value added benefits for active investors during this period of
-                      market realignment - the <strong>Capital Cove REO Opportunities Fund</strong> is poised to source, acquire,
+                      market realignment - the <strong>Capital Cove REO Opportunities Funds</strong> are poised to source, acquire,
                       manage, rehab and dispose of REO properties and investments faster, better, more profitably and
                       with less risk than many of our competitors that we benchmark against.
                     </p>

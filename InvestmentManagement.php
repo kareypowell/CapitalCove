@@ -5,13 +5,13 @@
 ?>
 
 <div class="site-body">
-  
+
   <div class="page-title" style="background-color:#e6e7e8;">
     <div class="pe-container">
       <ul class="nav ivm_navbar">
         <li><a href="REOAdvisorDirect.php">REO AdvisorDirect&#8482;</a></li>
         <li><a href="InvestmentAssetServicing.php">Investment &amp;<span class="subtitle">Asset Servicing</span></a></li>
-        <li><a href="REOOpportunitiesFund.php">The REO Opportunities<span class="subtitle">Fund</span></a></li>
+        <li><a href="REOOpportunitiesFunds.php">The REO Opportunities<span class="subtitle">Funds</span></a></li>
         <li><a href="REOFinancialServices.php">REO Financial<span class="subtitle">Services</span></a></li>
         <li><a href="InvestmentAdvisorySolutions.php">Investment Advisory<span class="subtitle">Solutions</span></a></li>
         <li><a href="PrivateWealthManagement.php">Private Wealth<span class="subtitle">Management</span></a></li>
@@ -21,12 +21,12 @@
   <div class="pe-spacer size70"></div>
 
   <div class="pe-container">
-    
+
     <div class="row-fluid">
-      
+
       <!--main content-->
       <section class="span12">
-        
+
         <!--new post-->
         <div class="row-fluid">
           <div class="span12">
@@ -38,14 +38,14 @@
                 </div>
               </div>
               <!--meta-->
-              
+
               <!--post image-->
               <div class="row-fluid">
                 <div class="span12  post-image">
                   <a href="#"><img src="img/content/investment_mgmt.png" class="peLazyLoading" data-original="img/content/investment_mgmt.png" width="940" height="460" alt="alt text" /></a>
                 </div>
               </div>
-              
+
               <div class="row-fluid">
                 <!-- <div class="span12"> -->
                   <div class="span12">
@@ -66,10 +66,10 @@
                         <strong>
                           At Capital Cove, we believe that your trust, capital and references are earned.
                         </strong><br>
-                        Every Day, we offer a 360-degree approach designed to help clients achieve specific 
-                        goals for their own or their institution’s financial future. Our Investment Management 
-                        professionals work collaboratively with clients, from homeowners and commercial property 
-                        owners to individual and institutional investors to develop advanced real estate-owned 
+                        Every Day, we offer a 360-degree approach designed to help clients achieve specific
+                        goals for their own or their institution’s financial future. Our Investment Management
+                        professionals work collaboratively with clients, from homeowners and commercial property
+                        owners to individual and institutional investors to develop advanced real estate-owned
                         (REO) portfolio management, servicing and investment strategies.
                       </p>
                     </p>
@@ -115,7 +115,7 @@
                     <div style="clear:both"></div>
 
                     <p style="font-size:14px;font-weight:400;">
-                      Investment Management &amp; Servicing Focus: 
+                      Investment Management &amp; Servicing Focus:
                       Exceptional capabilities, proven experience and performance-driven thinking – all working for you. Every Day.
                     </p>
 
@@ -127,20 +127,20 @@
                       <p>
                         <ul class="blockquote_list">
                           <li>
-                            Source, acquire and manage customized REO and Foreclosure-based investment 
-                            portfolios for principal owners, institutions, lenders, corporations and 
+                            Source, acquire and manage customized REO and Foreclosure-based investment
+                            portfolios for principal owners, institutions, lenders, corporations and
                             non-profit organizations.
                           </li>
                           <li>
-                            Sponsor and manage REO Opportunities Funds and Special Purpose Vehicles for direct 
+                            Sponsor and manage REO Opportunities Funds and Special Purpose Vehicles for direct
                             private investment opportunities.
                           </li>
                           <li>
-                            Continue to build and maintain quality relationships with the investment community and 
+                            Continue to build and maintain quality relationships with the investment community and
                             financial service organizations that empower our industry and communities that we serve.
                           </li>
                           <li>
-                            Provide a full range of financial reporting, fund administration ----- and asset 
+                            Provide a full range of financial reporting, fund administration ----- and asset
                             management services Investment Servicing.
                           </li>
                         </ul>
@@ -150,31 +150,31 @@
                   </div>
                 <!-- </div> -->
               </div>
-              
+
             </div>
-            
+
           </div>
         </div>
         <!--end post-->
-        
-        
-        
 
-          
+
+
+
+
       </section>
 
       <!--sidebar-->
         <?php //REQUIRE 'includes/sidebar.php';?>
-      <!--end sidebar-->    
+      <!--end sidebar-->
 
     </div><!--end row 1-->
-    
-    
-    
+
+
+
   </div>
 </div>
 
 
-  
+
   <div class="pe-spacer size100"></div>
     <?php REQUIRE 'includes/footer.php';?>
