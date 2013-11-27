@@ -34,8 +34,8 @@
               <span class="light">Managing Director - Real Estate Group</span>
             </div>
             <div class="span5-5 staff-social">
-              <a href="#" data-rel="tooltip" data-position="top" data-original-title="T: 1 (555) 555-5555"><i class="icon-phone"></i></a>
-              <a href="mailto:" data-rel="tooltip" data-position="top" data-original-title="E: example@capitalcove.com"><i class="icon-mail"></i></a>
+              <a href="#" data-rel="tooltip" data-position="top" data-original-title="T: 1  (909) 457-8440"><i class="icon-phone"></i></a>
+              <a href="mailto:anthonyh@capitalcove.com" data-rel="tooltip" data-position="top" data-original-title="E: anthonyh@capitalcove.com"><i class="icon-mail"></i></a>
               <a href="#" data-rel="tooltip" data-position="top" data-original-title="Facebook"><i class="icon-facebook-circled"></i></a>
               <a href="#" data-rel="tooltip" data-position="top" data-original-title="Linkedin"><i class="icon-linkedin-circled"></i></a>
             </div>
@@ -55,8 +55,8 @@
               <span class="light">Managing Director - Investment Sales Group </span>
             </div>
             <div class="span5-5 staff-social">
-              <a href="#" data-rel="tooltip" data-position="top" data-original-title="T: 1 (555) 555-5555"><i class="icon-phone"></i></a>
-              <a href="mailto:" data-rel="tooltip" data-position="top" data-original-title="E: example@capitalcove.com"><i class="icon-mail"></i></a>
+              <a href="#" data-rel="tooltip" data-position="top" data-original-title="T: 1 (949) 922-5587"><i class="icon-phone"></i></a>
+              <a href="mailto:mark.latimer@capitalcove.com" data-rel="tooltip" data-position="top" data-original-title="E: mark.latimer@capitalcove.com"><i class="icon-mail"></i></a>
               <a href="#" data-rel="tooltip" data-position="top" data-original-title="Facebook"><i class="icon-facebook-circled"></i></a>
               <a href="#" data-rel="tooltip" data-position="top" data-original-title="Linkedin"><i class="icon-linkedin-circled"></i></a>
             </div>
@@ -76,8 +76,8 @@
               <span class="light">Managing Director - Investment Services Group</span>
             </div>
             <div class="span5-5 staff-social">
-              <a href="#" data-rel="tooltip" data-position="top" data-original-title="T: 1 (555) 555-5555"><i class="icon-phone"></i></a>
-              <a href="mailto:" data-rel="tooltip" data-position="top" data-original-title="E: example@capitalcove.com"><i class="icon-mail"></i></a>
+              <a href="#" data-rel="tooltip" data-position="top" data-original-title="T: 1 (201) 993-5230"><i class="icon-phone"></i></a>
+              <a href="mailto:onsfrancisca@capitalcove.com" data-rel="tooltip" data-position="top" data-original-title="E: onsfrancisca@capitalcove.com"><i class="icon-mail"></i></a>
               <a href="#" data-rel="tooltip" data-position="top" data-original-title="Facebook"><i class="icon-facebook-circled"></i></a>
               <a href="#" data-rel="tooltip" data-position="top" data-original-title="Linkedin"><i class="icon-linkedin-circled"></i></a>
             </div>
@@ -118,7 +118,7 @@
               <span class="light">Sr. Managing Director</span>
             </div>
             <div class="span5-5 staff-social">
-              <a href="#" data-rel="tooltip" data-position="top" data-original-title="T: 1 (310) 350-1792"><i class="icon-phone"></i></a>
+              <a href="#" data-rel="tooltip" data-position="top" data-original-title="T: 1  (909) 457-8440"><i class="icon-phone"></i></a>
               <a href="mailto:rk.khalfani@capitalcove.com" data-rel="tooltip" data-position="top" data-original-title="E: rk.khalfani@capitalcove.com"><i class="icon-mail"></i></a>
               <a href="#" data-rel="tooltip" data-position="top" data-original-title="Facebook"><i class="icon-facebook-circled"></i></a>
               <a href="#" data-rel="tooltip" data-position="top" data-original-title="Linkedin"><i class="icon-linkedin-circled"></i></a>
