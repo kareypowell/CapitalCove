@@ -26,6 +26,90 @@
     <div class="row-fluid pe-block">
       <h3>Managing Directors</h3>
 
+      <div class="row-fluid staff-member pe-block" style="margin-bottom: 5px;">
+        <section class="span8">
+          <div class="row-fluid">
+            <div class="span5-5">
+              <h3>Anthony Hooks</h3>
+              <span class="light">Managing Director - Real Estate Group</span>
+            </div>
+            <div class="span5-5 staff-social">
+              <a href="#" data-rel="tooltip" data-position="top" data-original-title="T: 1 (555) 555-5555"><i class="icon-phone"></i></a>
+              <a href="mailto:" data-rel="tooltip" data-position="top" data-original-title="E: example@capitalcove.com"><i class="icon-mail"></i></a>
+              <a href="#" data-rel="tooltip" data-position="top" data-original-title="Facebook"><i class="icon-facebook-circled"></i></a>
+              <a href="#" data-rel="tooltip" data-position="top" data-original-title="Linkedin"><i class="icon-linkedin-circled"></i></a>
+            </div>
+          </div>
+
+          <div class="row-fluid">
+            <div class="divider dotter"></div>
+          </div>
+        </section>
+      </div>
+
+      <div class="row-fluid staff-member pe-block" style="margin-bottom: 5px;">
+        <section class="span8">
+          <div class="row-fluid">
+            <div class="span5-5">
+              <h3>Mark Latimer</h3>
+              <span class="light">Managing Director - Investment Sales Group </span>
+            </div>
+            <div class="span5-5 staff-social">
+              <a href="#" data-rel="tooltip" data-position="top" data-original-title="T: 1 (555) 555-5555"><i class="icon-phone"></i></a>
+              <a href="mailto:" data-rel="tooltip" data-position="top" data-original-title="E: example@capitalcove.com"><i class="icon-mail"></i></a>
+              <a href="#" data-rel="tooltip" data-position="top" data-original-title="Facebook"><i class="icon-facebook-circled"></i></a>
+              <a href="#" data-rel="tooltip" data-position="top" data-original-title="Linkedin"><i class="icon-linkedin-circled"></i></a>
+            </div>
+          </div>
+
+          <div class="row-fluid">
+            <div class="divider dotter"></div>
+          </div>
+        </section>
+      </div>
+
+      <div class="row-fluid staff-member pe-block" style="margin-bottom: 5px;">
+        <section class="span8">
+          <div class="row-fluid">
+            <div class="span5-5">
+              <h3>Fran Ruiz</h3>
+              <span class="light">Managing Director - Investment Services Group</span>
+            </div>
+            <div class="span5-5 staff-social">
+              <a href="#" data-rel="tooltip" data-position="top" data-original-title="T: 1 (555) 555-5555"><i class="icon-phone"></i></a>
+              <a href="mailto:" data-rel="tooltip" data-position="top" data-original-title="E: example@capitalcove.com"><i class="icon-mail"></i></a>
+              <a href="#" data-rel="tooltip" data-position="top" data-original-title="Facebook"><i class="icon-facebook-circled"></i></a>
+              <a href="#" data-rel="tooltip" data-position="top" data-original-title="Linkedin"><i class="icon-linkedin-circled"></i></a>
+            </div>
+          </div>
+
+          <div class="row-fluid">
+            <div class="divider dotter"></div>
+          </div>
+        </section>
+      </div>
+
+      <div class="row-fluid staff-member pe-block" style="margin-bottom: 5px;">
+        <section class="span8">
+          <div class="row-fluid">
+            <div class="span5-5">
+              <h3>Phil Andrews</h3>
+              <span class="light">Sr. Managing Director</span>
+            </div>
+            <div class="span5-5 staff-social">
+              <a href="#" data-rel="tooltip" data-position="top" data-original-title="T: 1 (555) 555-5555"><i class="icon-phone"></i></a>
+              <a href="mailto:" data-rel="tooltip" data-position="top" data-original-title="E: example@capitalcove.com"><i class="icon-mail"></i></a>
+              <a href="#" data-rel="tooltip" data-position="top" data-original-title="Facebook"><i class="icon-facebook-circled"></i></a>
+              <a href="#" data-rel="tooltip" data-position="top" data-original-title="Linkedin"><i class="icon-linkedin-circled"></i></a>
+            </div>
+          </div>
+
+          <div class="row-fluid">
+            <div class="divider dotter"></div>
+          </div>
+        </section>
+      </div>
+
       <div class="row-fluid staff-member pe-block">
         <section class="span8">
           <div class="row-fluid">
@@ -47,90 +131,6 @@
         </section>
       </div>
 
-      <div class="row-fluid staff-member pe-block">
-        <section class="span8">
-          <div class="row-fluid">
-            <div class="span5-5">
-              <h3>Anthony Hooks</h3>
-              <span class="light">Managing Director - Real Estate Group </span>
-            </div>
-            <div class="span5-5 staff-social">
-              <a href="#" data-rel="tooltip" data-position="top" data-original-title="T: 1 (555) 555-5555"><i class="icon-phone"></i></a>
-              <a href="mailto:" data-rel="tooltip" data-position="top" data-original-title="E: example@capitalcove.com"><i class="icon-mail"></i></a>
-              <a href="#" data-rel="tooltip" data-position="top" data-original-title="Facebook"><i class="icon-facebook-circled"></i></a>
-              <a href="#" data-rel="tooltip" data-position="top" data-original-title="Linkedin"><i class="icon-linkedin-circled"></i></a>
-            </div>
-          </div>
-
-          <div class="row-fluid">
-            <div class="divider dotter"></div>
-          </div>
-        </section>
-      </div>
-
-      <div class="row-fluid staff-member pe-block">
-        <section class="span8">
-          <div class="row-fluid">
-            <div class="span5-5">
-              <h3>Mark Latimer</h3>
-              <span class="light">Managing Director - Investment Sales Group </span>
-            </div>
-            <div class="span5-5 staff-social">
-              <a href="#" data-rel="tooltip" data-position="top" data-original-title="T: 1 (555) 555-5555"><i class="icon-phone"></i></a>
-              <a href="mailto:" data-rel="tooltip" data-position="top" data-original-title="E: example@capitalcove.com"><i class="icon-mail"></i></a>
-              <a href="#" data-rel="tooltip" data-position="top" data-original-title="Facebook"><i class="icon-facebook-circled"></i></a>
-              <a href="#" data-rel="tooltip" data-position="top" data-original-title="Linkedin"><i class="icon-linkedin-circled"></i></a>
-            </div>
-          </div>
-
-          <div class="row-fluid">
-            <div class="divider dotter"></div>
-          </div>
-        </section>
-      </div>
-
-      <div class="row-fluid staff-member pe-block">
-        <section class="span8">
-          <div class="row-fluid">
-            <div class="span5-5">
-              <h3>Phil Andrews</h3>
-              <span class="light">Eastern Regional Headquarters</span>
-            </div>
-            <div class="span5-5 staff-social">
-              <a href="#" data-rel="tooltip" data-position="top" data-original-title="T: 1 (555) 555-5555"><i class="icon-phone"></i></a>
-              <a href="mailto:" data-rel="tooltip" data-position="top" data-original-title="E: example@capitalcove.com"><i class="icon-mail"></i></a>
-              <a href="#" data-rel="tooltip" data-position="top" data-original-title="Facebook"><i class="icon-facebook-circled"></i></a>
-              <a href="#" data-rel="tooltip" data-position="top" data-original-title="Linkedin"><i class="icon-linkedin-circled"></i></a>
-            </div>
-          </div>
-
-          <div class="row-fluid">
-            <div class="divider dotter"></div>
-          </div>
-        </section>
-      </div>
-
-      <div class="row-fluid staff-member pe-block">
-        <section class="span8">
-          <div class="row-fluid">
-            <div class="span5-5">
-              <h3>Fran Ruiz</h3>
-              <span class="light">New York City Group </span>
-            </div>
-            <div class="span5-5 staff-social">
-              <a href="#" data-rel="tooltip" data-position="top" data-original-title="T: 1 (555) 555-5555"><i class="icon-phone"></i></a>
-              <a href="mailto:" data-rel="tooltip" data-position="top" data-original-title="E: example@capitalcove.com"><i class="icon-mail"></i></a>
-              <a href="#" data-rel="tooltip" data-position="top" data-original-title="Facebook"><i class="icon-facebook-circled"></i></a>
-              <a href="#" data-rel="tooltip" data-position="top" data-original-title="Linkedin"><i class="icon-linkedin-circled"></i></a>
-            </div>
-          </div>
-
-          <div class="row-fluid">
-            <div class="divider dotter"></div>
-          </div>
-        </section>
-      </div>
-
     </div>
 
     <div class="row-fluid pe-block">
@@ -138,7 +138,7 @@
       <h3>Senior Staff</h3>
 
       <!-- senior staff 1 -->
-      <div class="row-fluid staff-member pe-block">
+      <div class="row-fluid staff-member pe-block" style="margin-bottom: 5px;">
         <section class="span6">
           <div class="row-fluid">
             <div class="span8">
@@ -190,7 +190,7 @@
       <!-- /senior staff 1 -->
 
 	     <!-- senior staff 3 -->
-      <div class="row-fluid staff-member pe-block">
+      <div class="row-fluid staff-member pe-block" style="margin-bottom: 5px;">
         <section class="span6">
           <div class="row-fluid">
             <div class="span8">
@@ -242,7 +242,7 @@
       <!-- /senior staff 3 -->
 
        <!-- senior staff 5 -->
-      <div class="row-fluid staff-member pe-block">
+      <div class="row-fluid staff-member pe-block" style="margin-bottom: 5px;">
         <section class="span6">
           <div class="row-fluid">
             <div class="span8">
@@ -294,7 +294,7 @@
       <!-- /senior staff 5 -->
 
       <!-- senior staff 6 -->
-      <div class="row-fluid staff-member pe-block">
+      <div class="row-fluid staff-member pe-block" style="margin-bottom: 5px;">
         <section class="span6">
           <div class="row-fluid">
             <div class="span8">
