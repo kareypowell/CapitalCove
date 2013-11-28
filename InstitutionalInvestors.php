@@ -8,14 +8,12 @@
 	<div class="pe-spacer size70"></div>
 
 	<div class="pe-container">
-		
+
 		<div class="row-fluid">
-			
+
 			<!--main content-->
 			<section class="span8">
-            
-            
-				
+
 				<!--new post-->
 				<div class="row-fluid">
 					<div class="span12">
@@ -27,28 +25,28 @@
 								</div>
 							</div>
 							<!--meta-->
-							
+
 							<!--post image-->
 							<div class="row-fluid">
 								<div class="span12  post-image">
-									<a href="#"><img src="img/content/Institutional_Inventors.png" class="peLazyLoading" data-original="img/content/Institutional_Inventors.png" width="620" height="349" alt="alt text" /></a>
+									<a href="#"><img src="img/content/InstitutionalInvestors.jpg" class="peLazyLoading" data-original="img/content/InstitutionalInvestors.jpg" width="620" height="349" alt="alt text" /></a>
 								</div>
 							</div>
-							
+
 							<div class="row-fluid">
 								<div class="span12">
 									<div class="span12">
 										<p class="intro">
-										 
 
-									
+
+
                         <p>
-                         
+
                     Institutional Investors and Corporate Entities are able to connect with us and invest via Institutional Custodial Platforms, Special Purpose Vehicles, Closely-held corporate entities, Separately Managed Accounts or our two-tiered Institutional Fund Platform. In addition:
                         </p>
   <blockquote>
                         <p>
-                       
+
                         <ul class="blockquote_list">
 <li> Our investor asset management and administration systems connect seamlessly to our Institutional Custodians for integrated client management, Due Diligence transparency and ironclad privacy. </li>
 
@@ -62,36 +60,36 @@
 </ul>
                         </p>
                       </blockquote>
-                        
-                 
+
+
 									</div>
 								</div>
 							</div>
-							
+
 						</div>
-						
+
 					</div>
 				</div>
 				<!--end post-->
-				
-				
-				
 
-					
+
+
+
+
 			</section>
 
 			<!--sidebar-->
 				<?php REQUIRE 'includes/sidebar.php';?>
-			<!--end sidebar-->		
+			<!--end sidebar-->
 
 		</div><!--end row 1-->
-		
-		
-		
+
+
+
 	</div>
 </div>
 
 
-	
+
  	<div class="pe-spacer size100"></div>
 	 	<?php REQUIRE 'includes/footer.php';?>
