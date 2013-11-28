@@ -31,7 +31,7 @@
 							<!--post image-->
 							<div class="row-fluid">
 								<div class="span12  post-image">
-									<a href="#"><img src="img/content/Institutional_Inventors.png" class="peLazyLoading" data-original="img/content/Institutional_Inventors.png" width="620" height="349" alt="alt text" /></a>
+									<a href="#"><img src="img/content/IndividualInventors.jpg" class="peLazyLoading" data-original="img/content/IndividualInventors.jpg" width="620" height="349" alt="alt text" /></a>
 								</div>
 							</div>
 							

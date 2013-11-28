@@ -27,9 +27,9 @@
             <!--post image-->
 
             <div class="row-fluid">
-              <div class="span12 post-image">
-                <a href="#"><img alt="" src="http://placehold.it/620x349" class="peLazyLoading" data-original="http://placehold.it/620x349" width="620" height="349" ></a>
-              </div>
+           	<div class="span12  post-image">
+									<a href="#"><img src="img/content/WhatWeDo.jpg" class="peLazyLoading" data-original="img/content/WhatWeDo.jpg" width="620" height="349" alt="alt text" /></a>
+								</div>
             </div>
 
             <h3>CORPORATE OVERVIEW</h3>

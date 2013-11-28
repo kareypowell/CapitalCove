@@ -28,10 +28,9 @@
 							</div>
 							<!--meta-->
 							
-							<!--post image-->
-							<div class="row-fluid">
+						<div class="row-fluid">
 								<div class="span12  post-image">
-									<a href="#"></a>
+									<a href="#"><img src="img/content/FinancialAdvisors.jpg" class="peLazyLoading" data-original="img/content/FinancialAdvisors.jpg" width="620" height="349" alt="alt text" /></a>
 								</div>
 							</div>
 							

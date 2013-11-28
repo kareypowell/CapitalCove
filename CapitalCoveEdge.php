@@ -27,6 +27,12 @@
 							</div>
 							<!--meta-->
 							
+							<!--post image-->
+							<div class="row-fluid">
+								<div class="span12  post-image">
+									<a href="#"><img src="img/content/CapitalCoveEdge.jpg" class="peLazyLoading" data-original="img/content/CapitalCoveEdge.jpg" width="620" height="349" alt="alt text" /></a>
+								</div>
+							</div>
 													
 							<div class="row-fluid">
 								<div class="span12">
