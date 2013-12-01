@@ -40,27 +40,7 @@
             
 		</div>
 	</div>
-
-	<div data-delay="5">
-		<!-- background image -->
-		<img src="img/content/slider/Slider1_bkgrd.jpg" class="peLazyLoading" data-original="img/content/slider/Slider1_bkgrd.jpg" width="1920" height="600" alt="alt text" />
-
-		<!-- caption layers -->
-		<div class="peCaption">
-			
- <div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="0.7" data-transition="fadeInDown" data-x="5" data-y="200" style="color: #66CCFF; font-size: 40px">
-				Delivering Powerful
-			</div>
-			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="1.4" data-transition="fadeInDown" data-x="5" data-y="250" style="color: #66CCFF; font-size: 40px">
-				Straightforward Solutions
-			</div>
-			<div class="peCaptionLayer pe-caption-small pe-caption-background3" data-duration="0.8" data-delay="2.8" data-transition="fadeInDown" data-x="10" data-y="330" style="color: white; font-size: 24px">
-				For Investing in Today's Distressed Real Estate Marketplace.
-			</div>
-
-		</div>
-	</div>
-
+	
 	<div data-delay="5">
 		<!-- background image -->
 		<img src="img/content/slider/Slider_bkgrd-Advisor.png" class="peLazyLoading" data-original="img/content/slider/Slider_bkgrd-Advisor.png" width="1920" height="600" alt="alt text" />
@@ -70,17 +50,17 @@
 			<!-- caption layers -->
 		<div class="peCaption">	
 			        
-            			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="0.7" data-transition="fadeInDown" data-x="0" data-y="150" style="color: #3399FF; font-size: 40px">
+            			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="0.7" data-transition="fadeInDown" data-x="0" data-y="150" style="color: #006699; font-size: 40px">
 				Crafting Optimal
 			</div>
-			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="1.4" data-transition="fadeInDown" data-x="0" data-y="200" style="color: #3399FF; font-size: 40px">
+			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="1.4" data-transition="fadeInDown" data-x="0" data-y="200" style="color: #006699; font-size: 40px">
 				Real Estate and 
 			</div>
-			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="2.1" data-transition="fadeInDown" data-x="0" data-y="250" style="color: #3399FF; font-size: 40px">
+			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="2.1" data-transition="fadeInDown" data-x="0" data-y="250" style="color: #006699; font-size: 40px">
 				Asset Management
 			</div>
 			
-				<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="2.1" data-transition="fadeInDown" data-x="0" data-y="300" style="color: #3399FF; font-size: 40px">
+				<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="2.1" data-transition="fadeInDown" data-x="0" data-y="300" style="color: #006699; font-size: 40px">
 				Solutions
 			</div>
 	<div class="peCaptionLayer pe-caption-small pe-caption-background3" data-duration="0.8" data-delay="2.8" data-transition="fadeInDown" data-x="15" data-y="370" style="color: white; font-size: 24px">
@@ -93,6 +73,28 @@
 	
 	</div>
     </div>
+
+	<div data-delay="5">
+		<!-- background image -->
+		<img src="img/content/slider/Slider1_bkgrd.jpg" class="peLazyLoading" data-original="img/content/slider/Slider1_bkgrd.jpg" width="1920" height="600" alt="alt text" />
+
+		<!-- caption layers -->
+		<div class="peCaption">
+			
+ <div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="0.7" data-transition="fadeInUp" data-x="5" data-y="200" style="color: #66CCFF; font-size: 40px">
+				Delivering Powerful
+			</div>
+			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="1.4" data-transition="fadeInUp" data-x="5" data-y="250" style="color: #66CCFF; font-size: 40px">
+				Straightforward Solutions
+			</div>
+			<div class="peCaptionLayer pe-caption-small pe-caption-background2" data-duration="0.8" data-delay="2.8" data-transition="fadeInUp" data-x="10" data-y="330" style="color: white; font-size: 24px">
+				For Investing in Today's Distressed Real Estate Marketplace.
+			</div>
+
+		</div>
+	</div>
+
+	
     
     	<div data-delay="5">
 		<!-- background image -->
@@ -100,16 +102,16 @@
 		
 		<div class="peCaption">
 			
-			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="0.7" data-transition="fadeInDown" data-x="450" data-y="150" style="color: black; font-size: 40px">
+			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="0.7" data-transition="fadeInUp" data-x="450" data-y="150" style="color: black; font-size: 40px">
 				Experience The Power
 			</div>
-			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="1.4" data-transition="fadeInDown" data-x="450" data-y="200" style="color: black; font-size: 40px">
+			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="1.4" data-transition="fadeInUp" data-x="450" data-y="200" style="color: black; font-size: 40px">
 				of Having The Right
 			</div>
-			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="2.1" data-transition="fadeInDown" data-x="450" data-y="250" style="color: black; font-size: 40px">
+			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="2.1" data-transition="fadeInUp" data-x="450" data-y="250" style="color: black; font-size: 40px">
 				Real Estate Investment
 			</div>
-	<div class="peCaptionLayer pe-caption-small pe-caption-background4" data-duration="0.8" data-delay="2.8" data-transition="fadeInDown" data-x="465" data-y="320" style="color: white; font-size: 24px">
+	<div class="peCaptionLayer pe-caption-small pe-caption-background4" data-duration="0.8" data-delay="2.8" data-transition="fadeInUp" data-x="465" data-y="320" style="color: white; font-size: 24px">
 				And Asset Management Relationships On Your Side.
 			</div>
 
@@ -122,16 +124,16 @@
 		
 	<div class="peCaption">
 			
-			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="0.7" data-transition="fadeInDown" data-x="200" data-y="350" style="color: black; font-size: 40px">
+			<div class="peCaptionLayer pe-caption-large pe-caption-background5" data-duration="0.8" data-delay="0.7" data-transition="fadeInLeft" data-x="200" data-y="350" style="color: black; font-size: 40px">
 				A New Realty Brokerage
 			</div>
-			<div class="peCaptionLayer pe-caption-large" data-duration="0.8" data-delay="1.4" data-transition="fadeInDown" data-x="200" data-y="400" style="color: black; font-size: 40px">
+			<div class="peCaptionLayer pe-caption-large pe-caption-background5" data-duration="0.8" data-delay="1.4" data-transition="fadeInRight" data-x="200" data-y="420" style="color: black; font-size: 40px">
 				and Investment Standard
 			</div>
-				<div class="peCaptionLayer pe-caption-small pe-caption-background6" data-duration="0.8" data-delay="2.8" data-transition="fadeInDown" data-x="215" data-y="470" style="color: white; font-size: 24px">
+				
+<div class="peCaptionLayer pe-caption-small pe-caption-background6" data-duration="0.8" data-delay="2.8" data-transition="fadeInUp" data-x="200" data-y="490" style="color: white; font-size: 24px">
 				Brought To You By A Firm Used To Exceeding It. 
 			</div>
-
 		</div>
 		</div>
 				
@@ -163,7 +165,7 @@
                             solutions to the most complex real estate challenges. We
                             excel at helping Principal Owners buy, sell, list or
                             invest in real estate and mortgages with
-                            confidence.</p><a href="#" class="read-more">Learn
+                            confidence.</p><a href="ResidentialRealEstateServices.php" class="read-more">Learn
                             More</a>
                         </div>
 
@@ -180,7 +182,7 @@
                             record earnings, expanding assets under management, and
                             consistently delivering double-digit annualized returns
                             to our clients. And with a proven track record of
-                            successfully...</p><a href="#" class="read-more">Learn
+                            successfully...</p><a href="InvestmentAssetServicing.php" class="read-more">Learn
                             More</a>
                         </div>
 
@@ -196,7 +198,7 @@
                             rescue scams, and ever-changing mortgage lending
                             conditions, our short sale professionals understand the
                             scope and expertise needed to produce sound, successful
-                            outcomes to distressed homeowners.</p><a href="#" class=
+                            outcomes to distressed homeowners.</p><a href="ShortSaleManagementCenter.php" class=
                             "read-more">Learn More</a>
                         </div>
 
@@ -213,7 +215,7 @@
                             exclusively on REO and Foreclosure-Based Investments.
                             Since inception, our firm has excelled at sourcing,
                             acquiring, managing and disposing of distressed REO real
-                            estate and...</p><a href="#" class="read-more">Learn
+                            estate and...</p><a href="IndividualInventors.php" class="read-more">Learn
                             More</a>
                         </div>
                     </div>
