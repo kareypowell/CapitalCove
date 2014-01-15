@@ -5,6 +5,11 @@
 ?>
 
 
+<div class="page-title">
+		<div class="pe-container">
+			<h1>Fiduciaries, RIAs, & Financial Advisors</h1>
+		</div>
+	</div>
 	<div class="pe-spacer size70"></div>
 
 	<div class="pe-container">
@@ -23,7 +28,7 @@
 							<!--post titles-->
 							<div class="row-fluid">
 								<div class="span12 post-title">
-									<h1><a href="#">Fiduciaries, RIAs, & Financial Advisors</a></h1>
+									
 								</div>
 							</div>
 							<!--meta-->

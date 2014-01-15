@@ -14,12 +14,13 @@
 	<!--text widget-->
 	<div class="widget widget_text">
 		<h3>News &amp; Events</h3>
-		<p>Capital Cove Financial moves into new Class A Building in Southern California  11-Mar 2013 <br /><a href="../InTheNews.php" class="more-link">Read More</a></p>
+		<p>Capital Cove Financial moves into new Class A Building in Southern California  11-Mar 2013 <br /><a href="#" class="more-link">Read More</a></p>
 		
+		<p>Purchase and invest in foreclosure properties with your IRA 20-Apr 2013 <br /><a href="#" class="more-link">Read More</a></p>
 		
-		<p>Capital Cove Financial launches targeted REOAdvisorDirect™ Program Nationwide 20-Jan 2013 <br /><a href="../REOAdvisorDirect.php" class="more-link">Read More</a></p>
+		<p>Capital Cove Financial launches targeted REOAdvisorDirect™ Program Nationwide 20-Jan 2013 <br /><a href="#" class="more-link">Read More</a></p>
 		
-		<p>Capital Cove Financial opens newest REO Opportunity Fund to  new investors 02-Jan 2013 <br /><a href="../REOOpportunitiesFunds.php" class="more-link">Read More</a></p>
+		<p>Capital Cove Financial opens newest REO Opportunity Fund to  new investors 02-Jan 2013 <br /><a href="#" class="more-link">Read More</a></p>
 		
 	</div>
 	
@@ -34,7 +35,7 @@
 			</a>
 			<h6><a href="#">North Yelton, Covina, CA</a></h6>
 			<p>Purchase Price&nbsp;&nbsp;$189K<br />
-			Sale Price&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$385K</p>
+			Sale Price&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$189K</p>
 		</div>
 	</div>
 	

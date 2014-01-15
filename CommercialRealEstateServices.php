@@ -5,6 +5,12 @@
 ?>
 
 
+<div class="page-title">
+		<div class="pe-container">
+			<h1>Commercial Real Estate Services</h1>
+		</div>
+	</div>
+
 	<div class="pe-spacer size70"></div>
 
 	<div class="pe-container">
@@ -23,7 +29,7 @@
 							<!--post titles-->
 							<div class="row-fluid">
 								<div class="span12 post-title">
-									<h1><a href="#"> Commercial Real Estate Services</a></h1>
+									
 								</div>
 							</div>
 							<!--meta-->
@@ -31,7 +37,7 @@
 							<!--post image-->
 							<div class="row-fluid">
 								<div class="span12  post-image">
-									<a href="#"><img src="img/content/Institutional_Inventors.png" class="peLazyLoading" data-original="img/content/Institutional_Inventors.png" width="620" height="349" alt="alt text" /></a>
+									<a href="#"><img src="img/content/MainImage_Commercial.png" class="peLazyLoading" data-original="img/content/MainImage_Commercial.png" width="620" height="349" alt="alt text" /></a>
 								</div>
 							</div>
 							
@@ -57,7 +63,7 @@
                         </p>
                         
                         <p>
-                      Partner with Commercial Real Estate Solutions Advisors that are committed to helping you exceed your goals.
+                      Partner with Commercial Real Estate Services Advisors that are committed to helping you exceed your goals.
                         </p>
                         
                         <p> 

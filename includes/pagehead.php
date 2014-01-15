@@ -101,7 +101,7 @@
 						<div>
 							<div class="email"><a href="/" data-rel="tooltip" data-position="bottom" data-original-title="Home" >Home</a></div>
 
-							<div class="phone"><i class="icon-seperator"></i><a href="#" data-rel="tooltip" data-position="bottom" data-original-title="Register" >Register</a></div>
+							<div class="phone"><i class="icon-seperator"></i><a href="Register.php" data-rel="tooltip" data-position="bottom" data-original-title="Register" >Register</a></div>
 
 							<div class="phone"><i class="icon-seperator"></i><a href="contact.php" data-rel="tooltip" data-position="bottom" data-original-title="Contact Us" >Contact Us</a></div>
 
@@ -187,8 +187,14 @@
 				<ul class="dropdown-menu">
 					<li class="menu-item"><a href="IndividualInventors.php">For Individual Investors</a></li>
 					<li class="menu-item"><a href="PropertyOwnersAndEquityStakeholders.php">For Property Owners and Equity Stakeholders</a></li>
-					<li class="menu-item"><a href="InstitutionalInvestors.php">For Institutonal Investors &amp; Investment Entities</a></li>
+					<li class="menu-item"><a href="InstitutionalInvestors.php">For Institutional Investors &amp; Investment Entities</a></li>
 					<li class="menu-item"><a href="FinancialAdvisors.php">Financial Advisors/RIAs/Wealth Managers/Legal Fiduciaries</a></li>
+                    
+                    <li class="menu-item"><a href="PrivateLendersAndMortgageFundsFirms.php"> Private Lenders & Mortgage Funds/Firms</a></li>
+                   
+                    
+                    
+                    <li class="menu-item"><a href="OffMarketIntermediariesAndLimitedPartners.php">Off Market Intermediaries</a></li>
 				</ul>
 			</li>
 	<!--drop navigation-->

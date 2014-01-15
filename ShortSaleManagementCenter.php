@@ -4,7 +4,11 @@
  include 'includes/pagehead.php';
 ?>
 
-
+<div class="page-title">
+		<div class="pe-container">
+			<h1> Short Sale Management Center</h1>
+		</div>
+	</div>
 	<div class="pe-spacer size70"></div>
 
 	<div class="pe-container">
@@ -23,7 +27,7 @@
 							<!--post titles-->
 							<div class="row-fluid">
 								<div class="span12 post-title">
-									<h1><a href="#"> Short Sale Management Center</a></h1>
+									<h1><a href="#"> </a></h1>
 								</div>
 							</div>
 							<!--meta-->
@@ -31,7 +35,7 @@
 							<!--post image-->
 							<div class="row-fluid">
 								<div class="span12  post-image">
-									<a href="#"><img src="img/content/Institutional_Inventors.png" class="peLazyLoading" data-original="img/content/Institutional_Inventors.png" width="620" height="349" alt="alt text" /></a>
+									<a href="#"><img src="img/content/MainImage_SSMC.png" class="peLazyLoading" data-original="img/content/MainImage_SSMC.png" width="620" height="349" alt="alt text" /></a>
 								</div>
 							</div>
 							

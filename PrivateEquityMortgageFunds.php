@@ -6,9 +6,9 @@
 
 <div class="site-body">
 	
-	<div class="page-title">
+<div class="page-title">
 		<div class="pe-container">
-			<h1>Investments</h1>
+			<h1> Private Equity &amp; Mortgage Funds</h1>
 		</div>
 	</div>
 	<div class="pe-spacer size70"></div>
@@ -29,7 +29,7 @@
 							<!--post titles-->
 							<div class="row-fluid">
 								<div class="span12 post-title">
-									<h1><a href="#">Private Equity &amp; Mortgage Funds</a></h1>
+									<h1><a href="#"></a></h1>
 								</div>
 							</div>
 							<!--meta-->

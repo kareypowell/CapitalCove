@@ -4,6 +4,11 @@
  include 'includes/pagehead.php';
 ?>
 
+	<div class="page-title">
+		<div class="pe-container">
+			<h1>Off Market Intermediaries And Limited Partners</h1>
+		</div>
+	</div>
 
 	<div class="pe-spacer size70"></div>
 
@@ -23,7 +28,7 @@
 							<!--post titles-->
 							<div class="row-fluid">
 								<div class="span12 post-title">
-									<h1><a href="#">Off Market Intermediaries And Limited Partners</a></h1>
+									
 								</div>
 							</div>
 							<!--meta-->

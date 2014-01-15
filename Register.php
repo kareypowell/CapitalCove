@@ -1,15 +1,14 @@
 
 <?php
- $page_title = 'Capital Cove - News & Events';
+ $page_title = 'Capital Cove - Register';
  include 'includes/pagehead.php';
 ?>
+
 <div class="page-title">
 		<div class="pe-container">
-			<h1>News & Events</h1>
+			<h1> Register</h1>
 		</div>
 	</div>
-    
-
 	<div class="pe-spacer size70"></div>
 
 	<div class="pe-container">
@@ -33,7 +32,12 @@
 							</div>
 							<!--meta-->
 							
-						
+							<!--post image-->
+							<div class="row-fluid">
+								<div class="span12  post-image">
+									<a href="#"></a>
+								</div>
+							</div>
 							
 							<div class="row-fluid">
 								<div class="span12">
@@ -42,16 +46,11 @@
 										  <blockquote>
                         <p>
                        
-              On March 11, 2013, Capital Cove Financial moved into a new Class A Building in Southern California. This new building is located at 9481 Haven Avenue within the Stone Haven Executive Park on the corner of Trademark and Haven. This building houses the corporate office of Capital Cove. 
+              Currently being updated for Q4...
                         </p>
                       </blockquote>
 
-								<!--post image-->
-							<div class="row-fluid">
-								<div class="span12  post-image">
-									<a href="#"><img src="img/content/inthenews.jpg" class="peLazyLoading" data-original="img/content/inthenews.jpg" width="620" height="349" alt="alt text" /></a>
-								</div>
-							</div>
+							
                             	<!--post image-->
 							<div class="row-fluid">
 								<div class="span12  post-image">
@@ -60,13 +59,6 @@
 							</div>	
                             	
                         <p>
-                        Capital Cove Financial launches targeted REOAdvisorDirect™ Program Nationwide 20-Jan 2013  <br /> <a href="REOAdvisorDirect.php"> Read More Here...</a>
-                        
-                        </p>
-                        
-                                                <p>
-                       Capital Cove Financial opens newest REO Opportunity Fund to new investors 02-Jan 2013. <br /> <a href="REOOpportunitiesFunds.php"> Read More Here...</a>
-                        </p>
                          
                      
                       

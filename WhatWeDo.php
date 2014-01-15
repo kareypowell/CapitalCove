@@ -4,7 +4,11 @@
  include 'includes/pagehead.php';
 ?>
 
-
+<div class="page-title">
+		<div class="pe-container">
+			<h1> What We Do</h1>
+		</div>
+	</div>
 <div class="pe-spacer size70"></div>
 
 <div class="pe-container">
@@ -21,7 +25,7 @@
 
             <div class="row-fluid">
               <div class="span12 post-title">
-                <h1><a href="#">What We Do</a></h1>
+                <h1></h1>
               </div>
             </div><!--meta-->
             <!--post image-->

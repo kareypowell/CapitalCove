@@ -4,6 +4,11 @@
  include 'includes/pagehead.php';
 ?>
 
+<div class="page-title">
+		<div class="pe-container">
+			<h1> Property Owners And Equity Stakeholders</h1>
+		</div>
+	</div>
 
 	<div class="pe-spacer size70"></div>
 
@@ -23,7 +28,7 @@
 							<!--post titles-->
 							<div class="row-fluid">
 								<div class="span12 post-title">
-									<h1><a href="#">Property Owners And Equity Stakeholders</a></h1>
+									<h1><a href="#"></a></h1>
 								</div>
 							</div>
 							<!--meta-->
@@ -31,7 +36,7 @@
 							<!--post image-->
 							<div class="row-fluid">
 								<div class="span12  post-image">
-									<a href="#"></a>
+									<a href="#"><img src="img/content/PropertyOwner.jpg" class="peLazyLoading" data-original="img/content/PropertyOwner.jpg" width="620" height="349" alt="alt text" /></a>
 								</div>
 							</div>
 							

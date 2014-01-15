@@ -3,7 +3,12 @@
  $page_title = 'Capital Cove - For Institutional Investors';
  include 'includes/pagehead.php';
 ?>
-
+<div class="page-title">
+		<div class="pe-container">
+			<h1>For Institutional Investors</h1>
+		</div>
+	</div>
+    
 
 	<div class="pe-spacer size70"></div>
 
@@ -14,6 +19,8 @@
 			<!--main content-->
 			<section class="span8">
 
+
+
 				<!--new post-->
 				<div class="row-fluid">
 					<div class="span12">
@@ -21,7 +28,7 @@
 							<!--post titles-->
 							<div class="row-fluid">
 								<div class="span12 post-title">
-									<h1><a href="#">For Institutional Investors</a></h1>
+								
 								</div>
 							</div>
 							<!--meta-->

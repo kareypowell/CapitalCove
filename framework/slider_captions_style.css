@@ -84,8 +84,6 @@
 	padding:5px 15px;
 	color:#27bbd4;
 	rgba(0,0,0,0.3)
-	opacity:0.4;
-	filter:alpha(opacity=40);
 	
 }
 
@@ -94,8 +92,6 @@
 	padding:5px 15px;
 	color:#33CCFF;
 	rgba(0,0,0,0.3)
-	opacity:0.4
-	filter:alpha(opacity=40);
 	
 }
 
@@ -103,7 +99,7 @@
 	background-color:#00CCFF;
 	padding:5px 15px;
 	color:#00BAD6;
-	rgba(0,0,0,0.3);
+	rgba(0,0,0,0.3)
 	
 }
 
@@ -111,8 +107,7 @@
 	background-color:#006699;
 	padding:5px 15px;
 	color:#3366CC;
-	opacity:0.4;
-	filter:alpha(opacity=40);
+	rgba(0,0,0,0.3)
 	
 }
 
@@ -120,8 +115,7 @@
 	background-color:#48ac4d;
 	padding:5px 15px;
 	color:#00CC00;
-	opacity:0.4;
-	filter:alpha(opacity=40);
+	rgba(255,0,0,0.5)
 	
 }
 
@@ -129,8 +123,7 @@
 	background-color:#000000;
 	padding:5px 15px;
 	color:##383838;
-	opacity:0.4;
-	filter:alpha(opacity=40);
+	rgba(255,0,0,0.5)
 	
 }
 
